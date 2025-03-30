@@ -1,5 +1,6 @@
 Java Shopping Application
-Description: This simple Java program simulates a basic shopping application where the user can input details about an item they want to purchase, including the name, price, and quantity. The program calculates the total cost of the purchase and displays it to the user.
+
+This simple Java program simulates a basic shopping application where the user can input details about an item they want to purchase, including the name, price, and quantity. The program calculates the total cost of the purchase and displays it to the user.
 
 Key Features:
 User Input: Collects the name of the item, price per unit, and quantity from the user via the console.
